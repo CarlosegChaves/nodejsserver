@@ -2,7 +2,7 @@
     "name": "nodejsserver",
     "version": "1.0.0",
     "description": "",
-    "main": app.js,
+    "main": "app.js",
     "scripts": {
         "test": "echo \"No test specified\" && exit 1",
         "start": "node index.js"
