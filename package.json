@@ -2,8 +2,8 @@
     "name": "nodejsserver",
     "version": "1.0.0",
     "description": "",
+    "main": app.js,
     "scripts": {
-        "build": "echo \"No build specified\" && exit 1",
         "test": "echo \"No test specified\" && exit 1",
         "start": "node index.js"
     },
@@ -11,7 +11,7 @@
         "type": "git",
         "url": "git+https://github.com/CarlosegChaves/nodejsserver.git"
     },
-    "author": "",
+    "author": "Carlos",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/CarlosegChaves/nodejsserver/issues"
